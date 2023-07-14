@@ -31,3 +31,82 @@ This is the list of Facebook pages whence the posts are taken.
 - The Poke (https://www.facebook.com/PokeHQ)
 - Weekly World News(https://www.facebook.com/weeklyworldnews)
 - GomerBlog (https://www.facebook.com/GomerBlog)
+
+## File type and Post structure
+The files are in JSON format.
+Each post will be like: 
+`
+{
+    "post_id": "10161293017194497",
+    "text": "THEONION.COM\nOminous New Report Just Lists Places To Hide",
+    "post_text": "",
+    "shared_text": "THEONION.COM\nOminous New Report Just Lists Places To Hide",
+    "original_text": null,
+    "time": "02/05/2023",
+    "timestamp": 1683041406,
+    "image": null,
+    "image_lowquality": "https://external-mxp2-1.xx.fbcdn.net/emg1/v/t13/11897892201848054075?url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fc_fill%2Cf_auto%2Cfl_progressive%2Cg_center%2Ch_675%2Cpg_1%2Cq_80%2Cw_1200%2F1bc2ccfb6ea317f202484e462e4d5fcf.jpg&fb_obo=1&utld=kinja-img.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p476x249_q75&ccb=13-1&oh=06_AbH2WtP5pj6MI1s-kCedv7_KHNd0IVNCgn-0xKJlJuxy_Q&oe=645328FA&_nc_sid=6ac203",
+    "images": [],
+    "images_description": [],
+    "images_lowquality": [
+        "https://external-mxp2-1.xx.fbcdn.net/emg1/v/t13/11897892201848054075?url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fc_fill%2Cf_auto%2Cfl_progressive%2Cg_center%2Ch_675%2Cpg_1%2Cq_80%2Cw_1200%2F1bc2ccfb6ea317f202484e462e4d5fcf.jpg&fb_obo=1&utld=kinja-img.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p476x249_q75&ccb=13-1&oh=06_AbH2WtP5pj6MI1s-kCedv7_KHNd0IVNCgn-0xKJlJuxy_Q&oe=645328FA&_nc_sid=6ac203"
+    ],
+    "images_lowquality_description": [
+        null
+    ],
+    "video": null,
+    "video_duration_seconds": null,
+    "video_height": null,
+    "video_id": null,
+    "video_quality": null,
+    "video_size_MB": null,
+    "video_thumbnail": null,
+    "video_watches": null,
+    "video_width": null,
+    "likes": null,
+    "comments": 7,
+    "shares": 8,
+    "post_url": "https://facebook.com/TheOnion/posts/10161293017194497",
+    "link": "https://bit.ly/41TE5OX?fbclid=IwAR0p9g8CC8HyiLz_ZiBIAPVVhgqmegw2qGJpYtIFzVsYZPGD0eKHpZ7RmB4",
+    "links": [
+        {
+            "link": "/story.php?story_fbid=pfbid09CRhiYQWa1MM7qf9jdSmpd8cpzK7tUFDj1KxusYP7cpV8XdTfamZ9mTbbu3Auwm6l&id=20950654496&eav=AfYBvYeQ1_1nxuIeU7FkKK-TGFmXbxqxDMC4arFb6bZ-vfnFYds5gDPmNAcovS9HqtU&m_entstream_source=timeline&__tn__=%2As%2As-R&paipv=0",
+            "text": ""
+        },
+        {
+            "link": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F41TE5OX%3Ffbclid%3DIwAR0p9g8CC8HyiLz_ZiBIAPVVhgqmegw2qGJpYtIFzVsYZPGD0eKHpZ7RmB4&h=AT24f_5wemx2-vpVuNDB90yhgYLS8f57yhHNN0-QzI3tqibMvrWtPUhS23pa75FPIpJHRPuGhzf5hwxIx_u1EauEsGyLi6dh3IItLWj1YYCf8L0IF9NBQQFzNs1fvrHSySoirR2ibfbiz6umVlN8rITqHtCM7T08fRwWiC4O5Pzl",
+            "text": ""
+        }
+    ],
+    "user_id": "20950654496",
+    "username": "The Onion",
+    "user_url": "https://facebook.com/TheOnion/?__tn__=C-R&paipv=0&eav=AfZ8PVrtft0bjWYDDS9ShmFJMM0_tMguQD0eBlhRnQsu60ivb5fUz-hE7hDoPTjDX3s",
+    "is_live": false,
+    "factcheck": null,
+    "shared_post_id": null,
+    "shared_time": null,
+    "shared_user_id": null,
+    "shared_username": null,
+    "shared_post_url": null,
+    "available": true,
+    "comments_full": null,
+    "reactors": [],
+    "w3_fb_url": "https://www.facebook.com/TheOnion/posts/10161293017194497",
+    "reactions": {
+        "mi piace": 40,
+        "love": 1,
+        "ahah": 15,
+        "wow": 2,
+        "abbraccio": 3
+    },
+    "reaction_count": 61,
+    "with": null,
+    "page_id": "20950654496",
+    "sharers": null,
+    "image_id": null,
+    "image_ids": [],
+    "was_live": false,
+    "fetched_time": "02/05/2023"
+}
+
+`
