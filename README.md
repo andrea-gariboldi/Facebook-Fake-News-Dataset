@@ -35,7 +35,7 @@ This is the list of Facebook pages whence the posts are taken.
 ## File type and Post structure
 The files are in JSON format.
 Each post will be like: 
-`
+`ciao`
 {
     "post_id": "10161293017194497",
     "text": "THEONION.COM\nOminous New Report Just Lists Places To Hide",
