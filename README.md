@@ -35,8 +35,8 @@ This is the list of Facebook pages whence the posts are taken.
 ## File type and Post structure
 The files are in JSON format.
 Each post will be like: 
-`ciao`
-{
+
+`{
     "post_id": "10161293017194497",
     "text": "THEONION.COM\nOminous New Report Just Lists Places To Hide",
     "post_text": "",
@@ -93,11 +93,11 @@ Each post will be like:
     "reactors": [],
     "w3_fb_url": "https://www.facebook.com/TheOnion/posts/10161293017194497",
     "reactions": {
-        "mi piace": 40,
+        "like": 40,
         "love": 1,
         "ahah": 15,
         "wow": 2,
-        "abbraccio": 3
+        "hug": 3
     },
     "reaction_count": 61,
     "with": null,
@@ -107,6 +107,6 @@ Each post will be like:
     "image_ids": [],
     "was_live": false,
     "fetched_time": "02/05/2023"
-}
+}`
 
-`
+
