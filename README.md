@@ -109,4 +109,12 @@ Each post will be like:
     "fetched_time": "02/05/2023"
 }`
 
-
+For each post is saved a lot of information, the main characteristics are :
+- post_id: uniquely identifies each post;
+- username: name of the page that posted;
+- text: post’s text;
+- time: post publication date;
+- reaction_count: total number of reaction (do we really need it? Consider it can be calculated as a sum of each reaction);
+- reaction: JSON object containing the values of each reaction;
+- shares: number of post shares;
+- comments: number of post comments;
