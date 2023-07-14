@@ -1,5 +1,5 @@
 # Facebook Fake News Dataset
-This is a dataset composed of 4934 posts taken from **Facebook**. * *Facebook Scraper* *(https://pypi.org/project/facebook-scraper/) was used to retrieve the **data**.
+This is a dataset composed of 4934 posts taken from **Facebook**. *Facebook Scraper* (https://pypi.org/project/facebook-scraper/) was used to retrieve the **data**.
 It is divided into **two files** to make it easier to divide between news taken from **reliable** and **unreliable** pages.
 ## Data Source
 This is the list of Facebook pages whence the **posts** are taken.
