@@ -36,7 +36,8 @@ This is the list of Facebook pages whence the **posts** are taken.
 The files are in **JSON** format.
 Each post will be like: 
 
-`{
+```
+{
     "post_id": "10161293017194497",
     "text": "THEONION.COM\nOminous New Report Just Lists Places To Hide",
     "post_text": "",
@@ -107,7 +108,8 @@ Each post will be like:
     "image_ids": [],
     "was_live": false,
     "fetched_time": "02/05/2023"
-}`
+}
+```
 
 For each post is saved a lot of information, the main characteristics are :
 - **post_id**: uniquely identifies each post;
