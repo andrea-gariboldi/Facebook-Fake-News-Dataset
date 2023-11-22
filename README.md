@@ -10,8 +10,7 @@ This GitHub repository contains the code and dataset for a project focused on Fa
 2. [Project Structure](#project-structure)
 3. [Code](#code)
 4. [Dataset](#dataset)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [License](#license)
 
 ## Introduction
 
@@ -38,10 +37,6 @@ Feel free to explore the code and adapt it to your specific needs.
 ## Dataset
 
 The `dataset` folder contains the datasets used in the project. You can download the datasets and use them for your experiments. Please review the documentation within the `dataset` folder for information on the dataset's structure.
-
-## Contributing
-
-If you would like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md). We welcome bug reports, feature requests, and other contributions.
 
 ## License
 
