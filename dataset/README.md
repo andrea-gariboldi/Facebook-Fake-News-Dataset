@@ -2,7 +2,7 @@
 This is a dataset composed of 4934 posts taken from **Facebook**. *Facebook Scraper* (https://pypi.org/project/facebook-scraper/) was used to retrieve the **data**.
 It is divided into **two files** to make it easier to divide between news taken from **reliable** and **unreliable** pages.
 ## Data Source
-This is the list of Facebook pages whence the **posts** are taken.
+This is the list of Facebook pages where the **posts** are taken.
 ### Reliable Pages
 - **FactCheck.org** (https://www.facebook.com/factcheck.org) 
 - **PolitiFact** (https://www.facebook.com/politifact) 
@@ -33,8 +33,11 @@ This is the list of Facebook pages whence the **posts** are taken.
 - **GomerBlog** (https://www.facebook.com/GomerBlog)
 
 ## File type and Post structure
-The files are in **JSON** format.
-Each post will be like: 
+The datasets are available in multiple formats: 
+- **JSON** &#8594; 2 files: real news and fake news
+- **CSV** &#8594; 8 files: feature sets obtained from the feature engineering process
+- **ARFF** &#8594; 8 files: feature sets obtained from the feature engineering process, ready to be used in [Weka](https://www.cs.waikato.ac.nz/ml/weka/) software.
+Each post, in the JSON files, will be like: 
 
 ```
 {
@@ -116,7 +119,7 @@ For each post is saved a lot of information, the main characteristics are :
 - **username**: name of the page that posted;
 - **text**: post’s text;
 - **time**: post publication date;
-- **reaction_count**: total number of reaction (do we really need it? Consider it can be calculated as a sum of each reaction);
+- **reaction_count**: total number of reactions
 - **reaction**: JSON object containing the values of each reaction;
 - **shares**: number of post shares;
 - **comments**: number of post comments;
