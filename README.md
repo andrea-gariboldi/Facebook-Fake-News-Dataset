@@ -1,7 +1,7 @@
 # Fake News Detection using Facebook &nbsp;&nbsp; <img src="https://github.com/andrea-gariboldi/Facebook-Fake-News/assets/124372391/7a636fd0-d473-4428-82c8-2c6d65ee8e68" width="10%" height="10%">
 
 
-This GitHub repository contains the code and dataset for a project focused on **Fake News Detection using Facebook**. The project aims to leverage _machine learning_ techniques to identify and classify **fake news articles** within the context of content shared on Facebook.
+This GitHub repository contains the code and dataset for a project focused on **Fake News Detection using Facebook**. The project aims to leverage _machine learning_ techniques to identify and classify **fake news articles** within the context of content shared on _Facebook_.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This GitHub repository contains the code and dataset for a project focused on **
 
 ## Introduction
 
-**Fake news** has become a significant concern in the digital age, with Social Media platforms being a common breeding ground for the dissemination of **misleading information**. This project focuses on utilizing machine learning algorithms to **detect** and **classify** **fake news articles**, particularly those circulating on Facebook.
+**Fake news** has become a significant concern in the digital age, with Social Media platforms being a common breeding ground for the dissemination of **misleading information**. This project focuses on utilizing _machine learning_ algorithms to **detect** and **classify** **fake news articles**, particularly those circulating on _Facebook_.
 
 ## Project Structure
 
