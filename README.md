@@ -28,7 +28,7 @@ The repository is organized into two main subfolders:
 
 The `code` folder contains all the necessary scripts and code for the project. Key files include:
 
-- `Scraper.py`: the script used for scraping the data from the Facebook pages selected (it uses [facebook-scraper](https://pypi.org/project/facebook-scraper/)).
+- `Scraper.py`: the script used for scraping the data from the Facebook pages (it uses [facebook-scraper](https://pypi.org/project/facebook-scraper/)).
 
 Feel free to explore the code and adapt it to your specific needs.
 
