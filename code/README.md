@@ -12,6 +12,5 @@ In this GitHub directory the code for the Facebook-Fake-News project is containe
 Happy coding! 🚀
 
 ## Directory content
--
--
--
+- PostVectorization.py:
+- PostVectorized.py: 
