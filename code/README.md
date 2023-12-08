@@ -12,5 +12,5 @@ In this GitHub directory the code for the Facebook-Fake-News project is containe
 Happy coding! 🚀
 
 ## Directory content
-- PostVectorization.py:
-- PostVectorized.py: 
+- **PostVectorization.py**: process of trasnforming each post retrieved from the database to an array-like shape;
+- **PostVectorized.py**: Python class used for defining the structure of each feature set.
