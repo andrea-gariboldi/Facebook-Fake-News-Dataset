@@ -14,3 +14,6 @@ Happy coding! 🚀
 ## Directory content
 - **PostVectorization.py**: process of trasnforming each post retrieved from the database to an array-like shape;
 - **PostVectorized.py**: Python class used for defining the structure of each feature set.
+
+## License
+
