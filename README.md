@@ -23,6 +23,9 @@ The repository is organized into two main subfolders:
 
 - **dataset**: Contains the dataset used in the project. The dataset is available for download, enabling users to train and test the models. Detailed information about the dataset can be found in the `dataset` folder.
 
+**NOTE**
+The file **ReproductionGuide.pdf** provides a detailed guide for reproducing the conducted experiment.
+
 ## Code
 
 The `code` folder contains all the necessary scripts and code for the project. Key files include:
