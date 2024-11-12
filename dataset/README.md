@@ -114,7 +114,7 @@ Each post, in the JSON files, will be like:
 }
 ```
 
-For each post is saved a lot of information, the main characteristics are :
+For each post the main characteristics are :
 - **post_id**: uniquely identifies each post;
 - **username**: name of the page that posted;
 - **text**: post’s text;
